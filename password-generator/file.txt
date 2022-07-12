@@ -1,0 +1,7 @@
+
+Password Generator
+
+This Application is devloped in python.
+It can be used to generate random password consisting of lowercase, uppercase, numerics, symbols and spaces.
+
+THANKYOU...!!!!
