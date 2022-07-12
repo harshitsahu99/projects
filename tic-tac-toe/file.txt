@@ -1,0 +1,7 @@
+1.This is TWO Player Game.
+2.First Move Will Be Of 'X'.
+3.Players Will Play Their Chances Alternately.
+4.Player Will Enter Position(1-9 allowed)
+
+
+THANKYOU...!!!!
